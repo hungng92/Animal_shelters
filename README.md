@@ -1,4 +1,4 @@
-Analysis of costs to run animal shelters
+__Analysis of costs to run animal shelters__
 
 You are working as a data analyst in the animal welfare department. In preparation for next year's budget, the head of your department would like to know the total cost to shelter animals, broken down by each animal type and size combination (i.e., 'small dogs', 'large dogs', etc.). You need to prepare a table that contains this information.
 
